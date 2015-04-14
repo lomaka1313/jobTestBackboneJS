@@ -1,0 +1,12 @@
+#<?
+
+AddDefaultCharset utf-8
+
+
+RewriteEngine On
+
+RewriteRule ^dummyList$ /
+RewriteRule ^dummyTable$ /
+RewriteRule ^dummyChart$ /
+
+#?>
